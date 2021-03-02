@@ -1,9 +1,5 @@
 
 
-console.log('JavaScript from client side.....')
-
-
-
 const wetherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#meg-1')
